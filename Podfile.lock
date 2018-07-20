@@ -1,0 +1,29 @@
+PODS:
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - TBDropdownMenu (3.0.1)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - TBDropdownMenu
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleMaps
+    - GooglePlaces
+    - TBDropdownMenu
+
+SPEC CHECKSUMS:
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  TBDropdownMenu: 249cd68a53289c32c600a292c568428d4f5cd613
+
+PODFILE CHECKSUM: c6359e207d1497db33f91e8456b12618106a02cd
+
+COCOAPODS: 1.5.2
